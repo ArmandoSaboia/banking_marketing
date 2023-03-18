@@ -11,7 +11,7 @@ To run the code for this project, you will need Python 3 and the following libra
 - Matplotlib
 - Seaborn
 
-You can install these libraries using pip or conda.
+You can install these libraries using pip, google colab or conda.
 
 ## Data
 
