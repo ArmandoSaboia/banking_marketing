@@ -5,25 +5,29 @@ This project aims to develop a predictive model to determine whether a customer 
 ## Requirements
 To run the code for this project, you will need Python 3 and the following libraries:
 
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Seaborn
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
 You can install these libraries using pip or conda.
 
 ## Data
 
-The UCI Banking Marketing Data Set includes information on customer demographics, transactional history, and previous marketing campaigns. The data set is available in CSV format and can be downloaded from the UCI Machine Learning Repository website.
+The UCI Banking Marketing Data Set includes information on customer demographics, transactional history, and previous marketing campaigns. 
+The data set is available in CSV format and can be downloaded from the UCI Machine Learning Repository website.
 
-##Methodology
+## Methodology
 
-This project uses logistic regression to develop a predictive model for term deposit subscription. The data is preprocessed to handle missing values, encode categorical variables, and normalize numerical features. The logistic regression model is trained on a portion of the data and tested on a separate portion to evaluate its accuracy.
+This project uses several machine learning algorithms, including logistic regression, decision trees, and random forests to develop a predictive model for term deposit subscription. 
+The data is preprocessed to handle missing values, encode categorical variables, and normalize numerical features. 
+The logistic regression model is trained on a portion of the data and tested on a separate portion to evaluate its accuracy.
 
 ## Results
 
-The logistic regression model achieved an accuracy of approximately 89% in predicting whether a customer will subscribe to a term deposit or not. The analysis of the data set also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior.
+The logistic regression model achieved an accuracy of approximately 89% in predicting whether a customer will subscribe to a term deposit or not. 
+The analysis of the data set also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior.
 
 ## Conclusion
 
