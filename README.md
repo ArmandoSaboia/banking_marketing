@@ -1,4 +1,4 @@
-# UCI Banking Marketing Problem
+# Banking Marketing Problem
 
 This project aims to develop a predictive model to determine whether a customer will subscribe to a term deposit with a bank based on various demographic and transactional factors. The data set used in this project is from the UCI Banking Marketing Data Set and includes information on over 45,000 customers.
 
