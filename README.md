@@ -1,7 +1,10 @@
 ## Project: Banking Marketing Problem
 
-#I. Project Summary:
-This project aims to develop a predictive model to determine whether a customer will subscribe to a term deposit with a bank based on various demographic and transactional factors. The data set used in this project is from the UCI Banking Marketing Data Set and includes information on over 45,000 customers.
+![28537](https://github.com/ArmandoSaboia/banking_marketing/assets/62614989/63df87f6-2904-4956-a148-3ee25dbf83f2)
+
+
+I. Project Summary:
+This project aims to develop a predictive model to determine whether a customer will subscribe to a term deposit with a bank based on various demographic and transactional factors. The dataset used in this project is from the UCI Machine Learning Repository and includes information on over 45,000 customers.
 
 II. Introduction:
 Banking industries provide various types of services like loans, deposits, etc. In this project, I will analyze data related to a bank's marketing campaign aimed at encouraging customers to subscribe to a term deposit. The goal of this project is to build a predictive model using machine learning techniques to determine if a customer will subscribe to a term deposit or not, based on various demographic and transactional factors.
