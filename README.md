@@ -2,16 +2,6 @@
 
 Table of Contents:
 
-I. Project Summary
-II. Introduction
-III. Problem Statement
-IV. Dataset Description
-V. Methods and Algorithms
-VI. Project Analysis
-VII. Final Results
-VIII. Conclusion and Future Scope
-IX. References
-
 I. Project Summary:
 This project aims to develop a predictive model to determine whether a customer will subscribe to a term deposit with a bank based on various demographic and transactional factors. The data set used in this project is from the UCI Banking Marketing Data Set and includes information on over 45,000 customers.
 
