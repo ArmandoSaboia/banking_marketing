@@ -1,4 +1,4 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/{ArmandoSaboia}/{banking_marketing}/blob/{main}/notebook/.ipynb)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/{ArmandoSaboia}/{banking_marketing}/blob/{main}/notebook/Banking_Marketing_problem.ipynb.ipynb)
 
 ## Project: Banking Marketing Problem
 
