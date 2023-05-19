@@ -1,3 +1,5 @@
+https://github.com/ArmandoSaboia/banking_marketing/blob/614ddaba1dcc53d13c5f4cd5b2a2dff9ff85f025/Banking_Marketing_problem.ipynb
+
 ## Project: Banking Marketing Problem
 
 ![28537](https://github.com/ArmandoSaboia/banking_marketing/assets/62614989/63df87f6-2904-4956-a148-3ee25dbf83f2)
