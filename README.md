@@ -1,4 +1,3 @@
-https://github.com/ArmandoSaboia/banking_marketing/blob/614ddaba1dcc53d13c5f4cd5b2a2dff9ff85f025/Banking_Marketing_problem.ipynb
 
 ## Project: Banking Marketing Problem
 
