@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArmandoSaboia/banking_marketing/blob/main/notebook/Banking_Marketing_problem.ipynb.ipynb) 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io//app.py)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ArmandoSaboia/banking_marketing/blob/main/notebook/Banking_Marketing_problem.ipynb.ipynb) 
 ![MIT LICENSE](https://badgen.net//badge/license/MIT/green) ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 
 ## Project: Bank Marketing Problem
