@@ -3,6 +3,7 @@
 ![MIT LICENSE](https://badgen.net//badge/license/MIT/green) ![MAINTAINED BADGE](https://img.shields.io/badge/Maintained%3F-yes-green.svg) 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ArmandoSaboia/banking_marketing)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ArmandoSaboia/banking_marketing)
+![GitHub contributors](https://img.shields.io/github/:variant/ArmandoSaboia/banking_marketing)
 
 
 
