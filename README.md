@@ -52,7 +52,7 @@ I will conclude the project by summarizing the findings and the success of our p
 
 ## Results
 
-The logistic regression model achieved an accuracy of approximately 89% in predicting whether a customer will subscribe to a term deposit or not. 
+The CatBoost Classifier model achieved an accuracy of approximately 93% in predicting whether a customer will subscribe to a term deposit or not. 
 The analysis of the data set also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior.
 
 ## Conclusion
