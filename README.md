@@ -39,7 +39,8 @@ I will first import the libraries and dataset, then perform EDA to understand th
 
 ### Final Results:
 
-I will present the accuracy, precision and recall for the best-performing model and interpret the results with the help of Shap. I will also present interactive visualizations with Dash and Streamlit. 
+The CatBoost Classifier model achieved an accuracy of approximately 93% in predicting whether a customer will subscribe to a term deposit or not. 
+The analysis of the dataset also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior. The findings were further enhanced with interactive visualizations using Dash and Streamlit.
 Due to the complexity and length of the code, I'll provide an outline for using these libraries:
 
 For Dash:
@@ -50,20 +51,11 @@ For Streamlit:
 
 Install Streamlit: pip install streamlit
 
-### Conclusion and Future Scope:
+## Conclusion
 
-I will conclude the project by summarizing the findings and the success of our predictive model. Future scope includes analyzing more demographic and transactional factors and an iterative approach to the model building process.
+The development of a predictive model for term deposit subscription using logistic regression can help banks better target potential customers and improve their marketing effectiveness. Additionally, the insights gained from the analysis of the UCI Banking Marketing Dataset can inform future marketing strategies and help banks identify potential areas for improvement.
 
 ### IX. References:
 
 1. https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 2. https://pycaret.org/
-
-## Storytelling
-
-The CatBoost Classifier model achieved an accuracy of approximately 93% in predicting whether a customer will subscribe to a term deposit or not. 
-The analysis of the data set also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior.
-
-## Conclusion
-
-The development of a predictive model for term deposit subscription using logistic regression can help banks better target potential customers and improve their marketing effectiveness. Additionally, the insights gained from the analysis of the UCI Banking Marketing Dataset can inform future marketing strategies and help banks identify potential areas for improvement.
