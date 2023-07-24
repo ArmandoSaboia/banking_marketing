@@ -39,7 +39,16 @@ I will first import the libraries and dataset, then perform EDA to understand th
 
 ### Final Results:
 
-I will present the accuracy, precision and recall for the best-performing model and interpret the results with the help of Shap. I will also present the visualization dashboard.
+I will present the accuracy, precision and recall for the best-performing model and interpret the results with the help of Shap. I will also present interactive visualizations with Dash and Streamlit. 
+Due to the complexity and length of the code, I'll provide an outline for using these libraries:
+
+For Dash:
+
+Install Dash: pip install dash
+
+For Streamlit:
+
+Install Streamlit: pip install streamlit
 
 ### Conclusion and Future Scope:
 
@@ -50,7 +59,7 @@ I will conclude the project by summarizing the findings and the success of our p
 1. https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 2. https://pycaret.org/
 
-## Results
+## Storytelling
 
 The CatBoost Classifier model achieved an accuracy of approximately 93% in predicting whether a customer will subscribe to a term deposit or not. 
 The analysis of the data set also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior.
