@@ -52,6 +52,8 @@ For Streamlit:
 
 Install Streamlit: pip install streamlit
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io//app.py)
+
 ## Conclusion
 
 In the bank's marketing strategy, understanding customer behaviors and preferences can have a significant impact. After analyzing the UCI Bank Marketing dataset, I have identified the top 5 features that strongly influence term deposit subscriptions:
