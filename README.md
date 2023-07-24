@@ -23,7 +23,7 @@ The banking industry provides various types of services like loans, deposits, et
 
 ### Problem Statement:
 
-I will aim to answer the following question: Can we predict whether a customer will subscribe to a term deposit with a bank based on various demographic and transactional factors? 
+Targeting potential customers more efficiently by identifying those likely to subscribe to a term deposit, allowing for better allocation of marketing resources. I will aim to answer the following question: Can we predict whether a customer will subscribe to a term deposit with a bank based on various demographic and transactional factors? 
 
 ### Dataset Description:
 
