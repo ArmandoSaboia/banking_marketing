@@ -41,6 +41,7 @@ I will first import the libraries and dataset, then perform EDA to understand th
 
 The CatBoost Classifier model achieved an accuracy of approximately 93% in predicting whether a customer will subscribe to a term deposit or not. 
 The analysis of the dataset also revealed several insights, including the importance of follow-up in converting potential customers and the impact of demographic factors on customer behavior. The findings were further enhanced with interactive visualizations using Dash and Streamlit.
+
 Due to the complexity and length of the code, I'll provide an outline for using these libraries:
 
 For Dash:
@@ -55,7 +56,7 @@ Install Streamlit: pip install streamlit
 
 The development of a predictive model for term deposit subscription using logistic regression can help banks better target potential customers and improve their marketing effectiveness. Additionally, the insights gained from the analysis of the UCI Banking Marketing Dataset can inform future marketing strategies and help banks identify potential areas for improvement.
 
-### IX. References:
+### References:
 
 1. https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 2. https://pycaret.org/
