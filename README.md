@@ -66,7 +66,7 @@ In the bank's marketing strategy, understanding customer behaviors and preferenc
 
 4. Balance: Customers with higher account balances are more likely to subscribe to a term deposit. The bank can tailor its marketing efforts to engage these financially stable customers effectively.
 
-5. Age: Age is another crucial factor. Middle-aged and older customers are more likely to subscribe compared to younger customers. Understanding this demographic difference allows the bank to target the appropriate age groups with relevant marketing messages.
+5. Age: Age is another crucial factor. Middle-aged are more likely to subscribe compared to younger and older customers. Understanding this demographic difference allows the bank to target the appropriate age groups with relevant marketing messages.
 
 Understanding customer behaviors and preferences is crucial for the bank's marketing strategy. By applying these insights, the bank can identify potential subscribers and tailor its efforts to increase term deposit subscriptions, leading to better overall performance and success in the market.
 
